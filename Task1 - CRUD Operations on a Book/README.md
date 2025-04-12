@@ -112,8 +112,6 @@ Here is an example of how the API endpoints should work:
     "publishedDate": "1925-04-10"
   }
   ```
-
->>>>>>> c8a92f58ffaa7950452956c55f7d9507003ce2b8
 - **Delete a specific book by ID**
   ```
   DELETE /books/1
