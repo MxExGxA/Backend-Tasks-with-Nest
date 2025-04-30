@@ -2,7 +2,7 @@
 node_modules/
 generated/
 
-# Log
+# Logs
 logs/
 *.log
 npm-debug.log*
